@@ -251,9 +251,6 @@ footer a{
         /* justify-content:end */
     }
     .men > a{
-        color: white;
-        background-color: black;
-        border-radius: 30%;
         margin-top: 2%;
         height: 5vh;
         font-weight: 80;
